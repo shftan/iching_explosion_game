@@ -8,5 +8,6 @@ Fully vibe coded project using Gemini 2.5 Flash for a joke game with the followi
 - 8 different types of "particles", and the pygame screen has 6 sections
 - Based on where and in what frequency the 8 different particles end up in the simulation, we will get our reading.
 - Make it interactive so that the user can play
+- Make the i ching reading wrap around
 
 To run, `python main.py`
